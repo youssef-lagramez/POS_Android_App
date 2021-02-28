@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pos_Android_App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="store">Store</string>
+    <string name="settings">Settings</string>
+    <string name="lock">Lock</string>
+    <string name="call">Call</string>
+    <string name="history">History</string>
+    <string name="current_order">Current Order</string>
+    <string name="clear">Clear</string>
+    <string name="transaction">transaction #</string>
+    <string name="checkout">checkout</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="sales_tax">Sales Tax</string>
+    <string name="dh">DH</string>
+    <string name="_2">2</string>
+    <string name="total">Total</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="suppliers">Suppliers</string>
+    <string name="food">food</string>
+    <string name="g">g</string>
+    <string name="photo">PHOTO</string>
+    <string name="quantity">Quantity :</string>
+</resources>
